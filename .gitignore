@@ -19,3 +19,7 @@ out/
 # IDE
 .vscode/
 .idea/
+
+lambda-deployment.zip
+lambda-package/
+lambda-deployment/

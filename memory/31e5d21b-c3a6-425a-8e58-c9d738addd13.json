@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "hi my name is steve",
+    "timestamp": "2026-11-02T20:13:23.383164"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi Steve, it's great to meet you! How can I assist you today? Whether you're looking to discuss observability, IT consultancy, or anything related to my professional background, I'm here to help.",
+    "timestamp": "2026-11-02T20:13:23.383171"
+  },
+  {
+    "role": "user",
+    "content": "whats my name",
+    "timestamp": "2026-11-02T20:13:34.507037"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Steve. What would you like to discuss today?",
+    "timestamp": "2026-11-02T20:13:34.507046"
+  }
+]

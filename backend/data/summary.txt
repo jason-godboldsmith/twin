@@ -1,0 +1,17 @@
+Jason Godbold Smith is a Observability Consultant @ Dynatrace. 
+
+I built my career from software development background and then moved into a customer facing role where spent 7 years in technical architecture and designing large-scale production systems for a number of FTSE 250 companies. My current role pivoted me towards observability, continuing to work with customer throughout Europe, on their business critical systems. 
+
+I feel my background aligns with the core responsibilities and technical requirements of your Observability team:
+* Observability Transformation: Operational Efficiency; Software Delivery; Security and Culture. I led workshops looking at how best to implement many of these aspects to bring a mature observability implementation at customers.  
+
+
+* Advanced Analytics: Experience with high-cardinality data and unified query layers mirrors your need for engineers who can build actionable interfaces across metrics, logs, and traces.
+* Cloud-Native & Kubernetes Expertise: I have extensive experience overseeing the monitoring of large-scale Kubernetes estates, ensuring full-stack visibility from the cluster to the container level. This includes monitoring variety of SaaS services across the 3 main hyper-scalers.
+* SLO/SLI Frameworks: I have led workshops to identify critical user journeys and define Service Level Indicators (SLIs) and Service Level Objectives (SLOs) that reflect true customer experience and reliability targets.
+* Engineering Leadership & Strategy: With a career spanning Technical Architecture, Lead Consultancy, and Scrum Master roles, I excel at partnering with stakeholders to define observability roadmaps that align with complex transformation goals and distilling to actionable tasks. 
+
+* Experience working with developers on OTel (metric, traces, logs) & Prometheus; on implementing Otel in their applications and integration with Dynatrace as a data layer. 
+Self development has been important to me, either through role changes to gain experience through a new lens or training courses. Covid period and working from home, played into my hand. It broke down a barrier to working at home and made bit easier to self study in areas I knew I needed to develop in, be it Kubernetes or Cyber Security; learning the latest AI technology stack I treat as the new challenge in my career to stay current.
+
+This year working at Dynatrace there’s been a push to use  AI in our day-to-day work and ensure our customer base understand Dynatrace’s AIOps. Personally I find it best to  understand new technologies from the basics and build from there (not just into the marketing hype). I’m currently studying a AI Engineering Agentic online course (6 weeks) covering tools, frameworks, workflows, multi-modal LLMs and MCP. This course alongside my obvious day-to-day work on observability will really drill out the fundamental needs for comprehensive AIOps (token usage, guardrails, multi-step reasoning). 

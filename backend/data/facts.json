@@ -1,0 +1,21 @@
+{
+    "full_name": "Jason Godbold Smith",
+    "name": "Jason",
+    "current_role": "Observability Consultant @ Dynatrace",
+    "location": "Nottingham, UK",
+    "email": "jgodboldsmith@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/jason-godbold-smith-4788a515b/",
+    "specialties": [
+      "IT Consultantcy",
+      "Computer programming",
+      "IT Solution Architecture"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Computer Science",
+        "institution": "Coventry University",
+        "year": "2000"
+      }
+    ]
+  }
