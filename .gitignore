@@ -16,10 +16,28 @@ out/
 # macOS
 .DS_Store
 
-# IDE
-.vscode/
-.idea/
-
 lambda-deployment.zip
 lambda-package/
 lambda-deployment/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.d/
+*.tfvars
+!terraform.tfvars
+!prod.tfvars
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+uv.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
