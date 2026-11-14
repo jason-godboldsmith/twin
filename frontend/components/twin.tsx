@@ -186,7 +186,7 @@ export default function Twin() {
                         <div className="flex-shrink-0">
                             {hasAvatar ? (
                                 <img 
-                                    src="/avatar.png" 
+                                    src="/avatar.jpeg" 
                                     alt="Digital Twin Avatar" 
                                     className="w-8 h-8 rounded-full border border-slate-300"
                                 />
